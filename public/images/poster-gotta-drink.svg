@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<rect width="800" height="1000" fill="#F3EBD6"/>
+<rect x="40" y="40" width="720" height="920" fill="none" stroke="#1B2B45" stroke-opacity=".25" stroke-width="3"/>
+<text x="400" y="150" fill="#4FC3F7" font-family="Arial, sans-serif" font-weight="700" font-size="34" text-anchor="middle" letter-spacing="8">ASLIN BEER CO × MINTD</text>
+<text x="400" y="300" fill="#1B2B45" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="110" text-anchor="middle">GOTTA</text><text x="400" y="420" fill="#1B2B45" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="110" text-anchor="middle">DRINK 'EM</text><text x="400" y="540" fill="#1B2B45" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="110" text-anchor="middle">ALL</text>
+<text x="400" y="720" fill="#4FC3F7" font-family="Arial, sans-serif" font-weight="700" font-size="44" text-anchor="middle">SEPTEMBER 12, 2026</text>
+<text x="400" y="780" fill="#1B2B45" fill-opacity=".7" font-family="Arial, sans-serif" font-size="32" text-anchor="middle">Aslin Beer Company — Alexandria, VA</text>
+<text x="400" y="900" fill="#1B2B45" fill-opacity=".5" font-family="Arial, sans-serif" font-weight="700" font-size="26" text-anchor="middle" letter-spacing="6">POSTER PLACEHOLDER</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" width="800" height="1000">
+<rect width="800" height="1000" fill="#F7F1E4"/>
+<rect x="40" y="40" width="720" height="920" fill="none" stroke="#1B2B45" stroke-opacity=".25" stroke-width="3"/>
+<text x="400" y="150" fill="#E8629E" font-family="Arial, sans-serif" font-weight="700" font-size="34" text-anchor="middle" letter-spacing="8">MINTD CARD SHOW</text>
+<text x="400" y="300" fill="#1B2B45" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="110" text-anchor="middle">BACK TO</text><text x="400" y="420" fill="#1B2B45" font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="110" text-anchor="middle">SCHOOL</text>
+<text x="400" y="600" fill="#E8629E" font-family="Arial, sans-serif" font-weight="700" font-size="44" text-anchor="middle">SEPTEMBER 20, 2026</text>
+<text x="400" y="660" fill="#1B2B45" fill-opacity=".7" font-family="Arial, sans-serif" font-size="32" text-anchor="middle">Gaithersburg Marriott, MD</text>
+<text x="400" y="900" fill="#1B2B45" fill-opacity=".5" font-family="Arial, sans-serif" font-weight="700" font-size="26" text-anchor="middle" letter-spacing="6">POSTER PLACEHOLDER</text>
+</svg>
